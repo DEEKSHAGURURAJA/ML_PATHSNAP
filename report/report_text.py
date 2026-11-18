@@ -21,7 +21,7 @@ def title_page(c):
 <h1>PathSnap: Distributed Map-Matching &amp; Route Reconstruction</h1>
 <p style='font-size:13pt'>Technical Report</p>
 <p>{'<br>'.join(team)}</p>
-<p class='small'>Repository: https://github.com/Sreeram1106/PathSnap</p>
+<p class='small'>Repository: https://github.com/DEEKSHAGURURAJA/ML_PATHSNAP</p>
 </div>
 <div class='box'><b>Summary.</b> Every GPS observation gets up to 12 candidate road arcs within 50 m. A classifier
 scores each candidate using 22 features. We trained and compared seven models from six algorithm families with

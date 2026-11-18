@@ -36,8 +36,8 @@ raw .track/.nodes/.arcs ──► cleaning + local metric projection
 Python 3.11 is recommended.
 
 ```bash
-git clone https://github.com/Sreeram1106/PathSnap.git
-cd PathSnap
+git clone https://github.com/DEEKSHAGURURAJA/ML_PATHSNAP.git
+cd ML_PATHSNAP
 python -m venv .venv
 .venv\Scripts\activate          # Windows   (Linux/macOS: source .venv/bin/activate)
 pip install -r requirements.txt
@@ -106,8 +106,8 @@ Every request is logged in this console and in `logs/api.log`. The log shows the
 ### Laptop 2 (UI)
 
 ```bash
-git clone https://github.com/Sreeram1106/PathSnap.git
-cd PathSnap
+git clone https://github.com/DEEKSHAGURURAJA/ML_PATHSNAP.git
+cd ML_PATHSNAP
 pip install -r requirements-ui.txt
 streamlit run ui/app.py
 ```
